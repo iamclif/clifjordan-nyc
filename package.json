@@ -1,0 +1,19 @@
+{
+  "name": "vue-js-test",
+  "version": "1.0.0",
+  "description": "learning vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamclif/clifjordan-nyc.git"
+  },
+  "author": "Clifford <clifford.jordan@etrade.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamclif/clifjordan-nyc/issues"
+  },
+  "homepage": "https://github.com/iamclif/clifjordan-nyc#readme"
+}
